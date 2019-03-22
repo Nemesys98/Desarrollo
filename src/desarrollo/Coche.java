@@ -9,14 +9,6 @@ package desarrollo;
  *
  * @author usuario
  */
-public class Desarrollo {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Modificacion 1");
-    }
+public class Coche {
     
 }
